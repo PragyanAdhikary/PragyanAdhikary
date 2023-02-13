@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PragyanAdhikary
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL, PowerBI, Excel and Tableay
+- 🌱 I’m currently learning SQL, PowerBI, Excel and Tableau
 - 💞️ I’m looking to collaborate on BI projects
 - 📫 How to reach me pragyan666@outlook.com
 - 
